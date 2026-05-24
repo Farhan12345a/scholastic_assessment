@@ -4,7 +4,8 @@ A full-stack web application where teachers assign books to students and track r
 
 ## Live Demo
 
-- **URL:** *(add after deployment)*
+- **Frontend:** https://scholastic-assessment.vercel.app
+- **Backend API:** https://scholastic-assessment.onrender.com
 - **Teacher:** `teacher@demo.com` / `password123`
 - **Student:** `student@demo.com` / `password123`
 - Additional students: `bob@demo.com`, `carol@demo.com` / `password123`
